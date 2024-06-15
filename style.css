@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/travel-hd-axhrsecphqby11wk.jpg");
+    background-repeat: no-repeat;
+}
+
+.main {
+    text-align: center;
+    color:	#343434;
+    font-family:"cursive";
+}
+
+p {
+    font-size: 25px;
+    padding-top: -2px;
+}
+
+.para  {
+    margin-top: -20px;
+}
+
+.button {
+    margin-left: 55rem;
+    font-size: medium;
+    margin-top: 40rem;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 5px;
+    background-color:grey;
+    color: #343434;;
+    border: 0;
+}
